@@ -1048,3 +1048,192 @@ tmpfs           1.7G  5.2M  1.7G   1% /tmp
 tmpfs           341M  148K  341M   1% /run/user/1000
 tmpfs           341M   76K  341M   1% /run/user/1003
 
+===== System Snapshot: 2025-10-17 01:32:01 =====
+--- Uptime ---
+ 01:32:01 up  1:58,  4 users,  load average: 1.34, 1.72, 1.22
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       224Mi        37Mi       843Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  148K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
+===== System Snapshot: 2025-10-17 01:33:01 =====
+--- Uptime ---
+ 01:33:01 up  1:59,  4 users,  load average: 1.38, 1.60, 1.20
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       224Mi        37Mi       844Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  148K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
+===== System Snapshot: 2025-10-17 01:34:01 =====
+--- Uptime ---
+ 01:34:01 up  2:00,  4 users,  load average: 1.02, 1.48, 1.19
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       224Mi        37Mi       844Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  148K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
+===== System Snapshot: 2025-10-17 01:35:01 =====
+--- Uptime ---
+ 01:35:01 up  2:01,  4 users,  load average: 0.66, 1.26, 1.12
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       224Mi        37Mi       844Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  148K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
+===== System Snapshot: 2025-10-17 01:36:01 =====
+--- Uptime ---
+ 01:36:01 up  2:02,  4 users,  load average: 0.24, 1.02, 1.05
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       227Mi        37Mi       844Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  148K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
+===== System Snapshot: 2025-10-17 01:37:01 =====
+--- Uptime ---
+ 01:37:01 up  2:03,  4 users,  load average: 0.16, 0.85, 0.99
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.1Gi       189Mi        37Mi       855Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  148K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
+===== System Snapshot: 2025-10-17 01:38:01 =====
+--- Uptime ---
+ 01:38:01 up  2:04,  4 users,  load average: 0.06, 0.69, 0.92
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.1Gi       189Mi        37Mi       855Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  148K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
+===== System Snapshot: 2025-10-17 01:39:01 =====
+--- Uptime ---
+ 01:39:01 up  2:05,  4 users,  load average: 0.86, 0.81, 0.95
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       220Mi        24Mi       843Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  152K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
+===== System Snapshot: 2025-10-17 01:40:01 =====
+--- Uptime ---
+ 01:40:01 up  2:06,  4 users,  load average: 1.11, 0.87, 0.95
+
+--- Memory (free -h) ---
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.0Gi       195Mi        33Mi       881Mi       1.3Gi
+Swap:          3.8Gi       335Mi       3.5Gi
+
+--- Disk usage (df -h) ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           341M  1.9M  339M   1% /run
+/dev/sda2        25G   11G   13G  45% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           341M  156K  341M   1% /run/user/1000
+tmpfs           341M   76K  341M   1% /run/user/1003
+
